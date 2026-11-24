@@ -1,6 +1,6 @@
 # CIFAR-10 Görüntü Sınıflandırma – ResNet-18 (Transfer Learning) + Gradio
 
-**Hazırlayan:** [AD SOYAD] – [ÖĞRENCİ NO]
+**Hazırlayan:** [YUSUF SAYILGAN] – [24120205061]
 **Notebook:** `Untitled9.ipynb` (Google Colab, PyTorch)
 
 ---
@@ -174,4 +174,4 @@ Uygulama Colab'da `demo.launch(share=True)` ile çalıştırıldı ve geçici bi
 | Best Performance | Test Accuracy 94.01%, F1-Score 94.03% (Val Acc 94.80%) |
 | Inference Time | 0.3959 ms / görüntü (GPU, batch); tek görüntü ≈ 3.5 ms |
 | Deployment Technology | Gradio |
-| Repository | [GITHUB REPO LİNKİ] |
+| Repository | https://github.com/cyberperfo/computervisiondeeple |

@@ -123,11 +123,6 @@ Uygulama Colab'da `demo.launch(share=True)` ile çalıştırıldı ve geçici bi
 > [GRADIO EKRAN GÖRÜNTÜSÜNÜ `images/gradio.png` OLARAK EKLEYİN]
 
 ## 8. Gerçek Görüntülerle Test ve Değerlendirme
-
-5 gerçek fotoğraf modele verildi:
-
-![Gerçek fotoğraf tahminleri](images/gercek_foto_tahminleri.png)
-
 | # | Gerçek Sınıf | Tahmin | Güven | Süre | Sonuç |
 |---|---|---|---|---|---|
 | 1 | Kamyon | Uçak | %93.5 | 59.2 ms | ❌ |
